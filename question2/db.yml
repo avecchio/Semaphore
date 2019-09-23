@@ -1,0 +1,5 @@
+host: genome-mysql.cse.ucsc.edu
+username: genome
+password:
+port: 3306
+database: hg19
